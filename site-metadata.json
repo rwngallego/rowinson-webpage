@@ -1,0 +1,74 @@
+{
+    "description": "Personal blogging theme for Stackbit",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Rowinson Gallego",
+        "tagline": "Software developer",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--4SmARV-L--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/463877/f1863055-b478-40c6-b77c-65c52d3e0317.jpeg",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "GitHub",
+                "url": "https://github.com/rwngallego",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/rwngallego",
+                "style": "icon",
+                "icon_class": "fa-dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "label": "Made with Stackbit.",
+                "url": "https://www.stackbit.com",
+                "style": "link",
+                "new_window": true
+            },
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
