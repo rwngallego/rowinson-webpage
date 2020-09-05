@@ -15,18 +15,13 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
+                "style": "link"
+            },
+            {
+                "label": "Blog",
+                "url": "/blog/",
                 "style": "link"
             },
             {
@@ -45,30 +40,44 @@
                 "new_window": true
             },
             {
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/rwngallego/",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            },
+            {
                 "label": "DEV",
                 "url": "https://dev.to/rwngallego",
                 "style": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/rwngallego",
+                "style": "icon",
+                "icon_class": "fa-twitter",
+                "new_window": true
             }
         ]
     },
     "footer": {
-        "content": "&copy; All rights reserved.",
+        "content": "&copy; Rowinson Gallego.",
         "links": [
             {
-                "label": "Made with Stackbit.",
-                "url": "https://www.stackbit.com",
+                "label": "Check my Github repos.",
+                "url": "https://github.com/rwngallego",
                 "style": "link",
                 "new_window": true
             },
             {
-                "label": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
+                "label": "Check my DEV.to",
+                "url": "https://dev.to/rwngallego",
                 "new_window": true,
                 "style": "link"
             }
         ]
     },
-    "title": "Stackbit Fresh Theme"
+    "title": "Rowinson Gallego"
 }
