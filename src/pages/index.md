@@ -14,7 +14,7 @@ sections:
       I'm a Software Developer with experience in Erlang/Elixir,
       React/React Native, NodeJS, PHP and .NET. Currently I'm learning
       Golang, Domain Driven Design and Azure. I love coding, learning new technologies
-      and working on exciting ideas!
+      and trying out new ideas!
     actions:
       - label: Contact Me
         url: /contact
