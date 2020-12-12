@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Rowinson Gallego.'
+    title: 'Hi, I''m Rowinson'
     content: >-
       Welcome to my personal space, I hope you find something useful!
   - section_id: about
@@ -12,7 +12,7 @@ sections:
     title: About
     content: >-
       I'm a Software Developer with experience in Erlang/Elixir,
-      React/React Native, NodeJS, PHP and .NET. Currently I'm learning
+      React/React Native, NodeJS, PHP and .NET. Currently, I'm learning
       Golang, Domain Driven Design and Azure. I love coding, learning new technologies
       and trying out new ideas!
     actions:
@@ -21,7 +21,7 @@ sections:
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: Recent posts
     posts_number: 4
     actions:
       - label: View Blog
