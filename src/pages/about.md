@@ -32,9 +32,10 @@ sections:
 
         In my spare time, I created a devotionals app that has more than 100.000
         downloads and more than 700.000 monthly visits.
-        I've also started an [Open Source project](https://github.com/rwngallego/perfecty-push-wp) 
-        to send Push Notifications for free ⚡️, initially as a Wordpress plugin, because its user base is huge, and
-        "*customers don't care about your solution but their problems*", [[1]](https://blog.leanstack.com/the-artist-and-the-innovator/)
+        I've also started an [Open Source project](https://github.com/rwngallego/perfecty-push) 
+        to send Push Notifications for free ⚡️, initially as a Wordpress plugin because its user base is huge, and
+        "*customers don't care about your solution but their problems*", [[1]](https://blog.leanstack.com/the-artist-and-the-innovator/).
+        Going straight to the building phase without first approaching your end users could not be the most optimal way of using your resources:
 
 
   - section_id: guanacas
