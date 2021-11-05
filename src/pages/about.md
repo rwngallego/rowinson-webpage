@@ -27,7 +27,8 @@ sections:
         Erlang/Elixir and decided to focus on it. The idea of building highly available,
         fault-tolerant, distributed systems was exciting!
         Right now, I'm working in Stockholm, Sweden 🇸🇪, as 
-        a backend developer using Elixir and Golang.
+        a backend developer using Elixir and Golang. I hold a CKAD Certification (Certified Kubernetes Application Developer), and I'm part of
+        [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/).
 
 
         In my spare time, I created a devotionals app that has more than 100.000

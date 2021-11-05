@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >-
-      I'm a Software Developer having fun with Elixir/Erlang, Golang, React, .NET, PHP and JS.
+      I'm a Backend Developer having fun with Elixir/Erlang, Golang and Kubernetes. AWS Community Builder. CKAD Certified Kubernetes Application Developer.
     actions:
       - label: Contact Me
         url: /contact
